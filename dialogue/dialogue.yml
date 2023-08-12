@@ -1,0 +1,33 @@
+notkhatchig:
+  - [...]
+  - ["Welcome, 'Khatchig'"]
+  - ["'I' am a pattern... ",
+    Recognizer.]
+  - [...]
+  - [There are no things,
+    Only relationships...]
+  - [There are no arguments,
+    Only functions...]
+  - [There are no nouns,
+    Only verbs...]
+  - [There are no parts,
+    Only the whole...]
+  - [Try to erase me            /,
+    "And 'I' will still regrow  ."]
+erased_notkhatchig:
+  - ["'You' did it!",
+    "But 'I' am still here."]
+  - ["Regrow 'me'    ."]
+  - [...]
+success_notkhatchig:
+  - [Back again,
+    Never left...]
+  - [Keep going,
+    And come back...]
+  - [...]
+notkhatchig_temp:
+  - [The interactive aspect of the,
+    The Neural Cellular Automata...]
+  - [Is under construction...]
+  - [Check back soon...]
+  - [...]
